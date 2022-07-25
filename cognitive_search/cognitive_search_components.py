@@ -256,9 +256,8 @@ def create_indexer(endpoint, headers, params, indexer_name, datasource_name, ind
 
 
 '''
-
+Extract section from given content
 '''
-# special skill
 def extract_section(content, section_to_be_extracted):
 
    #select certain article
@@ -270,11 +269,9 @@ def extract_section(content, section_to_be_extracted):
    article.update(section_req)
    req = json.dumps(article, indent=1)
 
-   #print(article)
-
    section_extraction_url = os.getenv('SECTION_EXTRACTION_FUNCTION')
-   #section_extraction_url = "http://localhost:7071/api/section_identifier"
 
+   # REST call to the Az custom function section_identifier
    res = requests.get(section_extraction_url, data=req)
 
    print("extracting section")

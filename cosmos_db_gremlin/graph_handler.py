@@ -20,15 +20,9 @@ cosmos_admin_key = os.getenv('COSMOS_ADMIN_KEY')
 database_name = os.getenv('COSMOS_DATABASE_NAME')
 #graph_name = os.getenv('COSMOS_GRAPH_NAME')
 
-'''
-cosmos_endpoint = os.getenv('TEST_COSMOS_SERVICE_NAME')
-cosmos_admin_key = os.getenv('TEST_COSMOS_ADMIN_KEY')
-database_name = os.getenv('TEST_COSMOS_DATABASE_NAME')
-graph_name = os.getenv('TEST_COSMOS_GRAPH_NAME')
-'''
 
 '''
-
+Applies different graph queries
 '''
 def query_graph(graph_name, query_type, query):
 
@@ -38,8 +32,6 @@ def query_graph(graph_name, query_type, query):
                             password=cosmos_admin_key,
                             message_serializer=serializer.GraphSONSerializersV2d0()
                             )
-
-        #print("Welcome to Azure Cosmos DB + Gremlin on Python!")
 
         if query_type == "cleanup":
             # Drop the entire Graph
@@ -69,9 +61,6 @@ def query_graph(graph_name, query_type, query):
             # Drop a few vertices and edges
             execute_drop_operations(cosmos_client, query)
 
-        elif query_type == "test":
-            test(cosmos_client, query)
-
     except GremlinServerError as e:
         print('Code: {0}, Attributes: {1}'.format(e.status_code, e.status_attributes))
 
@@ -99,44 +88,6 @@ def query_graph(graph_name, query_type, query):
         traceback.print_exc(file=sys.stdout) 
         sys.exit(1)
 
-'''
-
-'''
-def print_status_attributes(result):
-    # random so I don't get errors
-    a = 1
-    # This logs the status attributes returned for successful requests.
-    # See list of available response status attributes (headers) that Gremlin API can return:
-    #     https://docs.microsoft.com/en-us/azure/cosmos-db/gremlin-headers#headers
-    #
-    # These responses includes total request units charged and total server latency time.
-    # 
-    # IMPORTANT: Make sure to consume ALL results returned by client to the final status attributes
-    # for a request. Gremlin result are stream as a sequence of partial response messages
-    # where the last response contents the complete status attributes set.
-    #
-    # This can be 
-    #print("\tResponse status_attributes:\n\t{0}".format(result.status_attributes))
-
-# NOTE: The below methods have A LOT of duplicate code. I'll let them like this just because they provide clarity in results in the terminal
-
-
-'''
-
-'''
-# test method (runs any query)
-def test(client, query_list):
-    for query in query_list:
-        print("\n> {0}\n".format(query))
-        callback = client.submitAsync(query)
-        if callback.result() is not None:
-            print("\t Result -> :\n\t{0}".format(
-                callback.result().all().result()))
-        else:
-            print("Something went wrong with this query: {0}".format(query))
-        print("\n")
-        print_status_attributes(callback.result())
-
 
 # drop the whole graph 
 def cleanup_graph(client, cleanup_query):
@@ -146,28 +97,18 @@ def cleanup_graph(client, cleanup_query):
     if callback.result() is not None:
         callback.result().all().result() 
     print("\n")
-    print_status_attributes(callback.result())
 
  # insert vertices
 def insert_vertices(client, insert_vertices_query):
     for query in insert_vertices_query:
         print("\n> {0}\n".format(query))
         callback = client.submitAsync(query)
-        '''if callback.result() is not None:
-            print("\tInserted this vertex:\n\t{0}".format(
-                callback.result().all().result()))
-        else:
-            print("Something went wrong with this query: {0}".format(query))'''
         
         if callback.result() is None:
              print("Something went wrong with this query: {0}".format(query))
         print("\n")
-        #print_status_attributes(callback.result())
 
 
-'''
-
-'''
 # insert edges
 def insert_edges(client, insert_edges_query):
     for query in insert_edges_query:
@@ -178,7 +119,6 @@ def insert_edges(client, insert_edges_query):
                 callback.result().all().result()))
         else:
             print("Something went wrong with this query:\n\t{0}".format(query))
-        print_status_attributes(callback.result())
 
 # update either a vertex or an edge
 def update(client, update_query):
@@ -191,12 +131,6 @@ def update(client, update_query):
         else:
             print("Something went wrong with this query:\n\t{0}".format(query))
 
-        print_status_attributes(callback.result())
-
-
-'''
-
-'''
 # count vertices
 def count_vertices(client, count_vertices_query):
     print("\n> {0}".format(
@@ -207,14 +141,9 @@ def count_vertices(client, count_vertices_query):
     else:
         print("Something went wrong with this query: {0}".format(
             count_vertices_query))
-
     print("\n")
-    print_status_attributes(callback.result())
 
 
-'''
-
-'''
 # execute traversals
 def execute_traversals(client, traversals_query):
     for key in traversals_query:
@@ -224,14 +153,9 @@ def execute_traversals(client, traversals_query):
         callback = client.submitAsync(traversals_query[key])
         for result in callback.result():
             print("\t{0}".format(str(result)))
-        
         print("\n")
-        print_status_attributes(callback.result())
 
 
-'''
-
-'''
 # drop operations
 def execute_drop_operations(client, drop_operations_query):
     for key in drop_operations_query:
@@ -241,7 +165,6 @@ def execute_drop_operations(client, drop_operations_query):
         callback = client.submitAsync(drop_operations_query[key])
         for result in callback.result():
             print(result)
-        print_status_attributes(callback.result())
 
 
 # NOTE: the below methods are for QUERY GENERATION in Gremlin
@@ -254,14 +177,14 @@ def execute_drop_operations(client, drop_operations_query):
 
 
 '''
-
+Create vertex
 '''
 def create_vertex_query(type, id):
     return ["g.V().has('" + type + "','id','" + id + "').fold().coalesce(unfold(),addV('" + type + "').property('id','" + id + "').property('pk', 'pk'))"]
 
 
 '''
-
+Create edge
 '''
 def create_edge_query(from_id, type, to_id, property = None):
     if property != None:
@@ -270,28 +193,28 @@ def create_edge_query(from_id, type, to_id, property = None):
 
 
 '''
-
+Update vertex
 '''
 def update_vertex_query(id, property):
     return ["g.V('" + id + "').property('" + str(property[0]) + "', '" + str(property[1]) +"')"]
 
 
 '''
-
+Update edge
 '''
 def update_edge_query(from_id, edge_type, to_id, property):
     return ["g.V('" + from_id + "').outE('" + edge_type + "').where(inV().hasId('" + to_id + "')).property('" + str(property[0]) + "', '" + str(property[1]) +"')"]
 
 
 '''
-
+Count vertices
 '''
 def count_vertices_query():
     return "g.V().count()"
 
 
 '''
-
+Cleanup graph
 '''
 def cleanup_graph_query():
     return "g.V().drop()"

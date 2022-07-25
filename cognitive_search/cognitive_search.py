@@ -12,7 +12,7 @@ from article import *
 from cognitive_search_helper import *
 
 '''
-
+Launching method of the entire pipeline. 
 '''
 def main():
 
@@ -36,23 +36,16 @@ def main():
         'api-version':'2020-06-30'
     }
 
-    # optional
+    # Optional, if search service is not created yet OR if we want to recreate them
     '''       
     clear_previous_resources(endpoint, headers, params, datasource_name, skillset_name, index_name, indexer_name)
-
     create_datasource(endpoint, headers, params, datasource_name)
-    print("1")
     create_skillset(endpoint, headers, params, skillset_name)
-    print("2")
     create_index(endpoint, headers, params, index_name)
-    print("3")
     create_indexer(endpoint, headers, params, indexer_name, datasource_name, index_name, skillset_name)
-    print("4")'''
+    '''
     
     search_content(endpoint, headers, params, index_name)
-    print("5")
-
-
 
 
 if __name__ == "__main__":

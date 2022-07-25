@@ -1,6 +1,6 @@
 
 '''
-
+Definition of Article object
 '''
 class Article:
 

@@ -16,8 +16,7 @@ $graphRUs = 400
 $partitionKeys = @("/pk")
 # --------------------------------------------------
 $database = Get-AzCosmosDBGremlinDatabase -ResourceGroupName $resourceGroupName -AccountName $accountName -Name $databaseName
-
-
+# --------------------------------------------------
 Write-Host "Creating graph $graphName"
 New-AzCosmosDBGremlinGraph -ParentObject $database `
     -Name $graphName -Throughput $graphRUs `

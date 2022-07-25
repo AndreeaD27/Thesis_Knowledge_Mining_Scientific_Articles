@@ -10,31 +10,30 @@ import sys
 sys.path.append("../thesis_code")
 
 from cosmos_db_gremlin import graph_cosmos_gremlin
+from cosmos_db_gremlin import graph_helper
 
 load_dotenv()
 
-
+'''
+Start applying Health Text Analytics and create graphs
+'''
 def apply_text_analytics(article_list, separate):
     # authenticate client
     client = authenticate_client()
 
-    #all_graph(article_list, client)
+    # create graphs; NOTE: pay attention if required graphs are already created <- don't use it then
+    graph_cosmos_gremlin.powershell_create_graphs(len(article_list))
 
-    #graph_cosmos_gremlin.powershell_create_graphs(len(article_list))
-
-    
+    # apply health analytics per article and graph it
     for index in range(len(article_list)):
         graph_name = "art_" + str(index)
-        article_graph(article_list[index], separate, client, graph_name)
+        graph_health_analytics(article_list[index], separate, client, graph_name)
 
 
-    #article_graph(article_list[1], separate, client)
-    #print(article_list[1].all)
-
-
-
-
-def article_graph(article, separate, client, graph_name):
+'''
+Extract health analytics and populate graph
+'''
+def graph_health_analytics(article, separate, client, graph_name):
 
     if separate:
         text_list = []
@@ -48,31 +47,14 @@ def article_graph(article, separate, client, graph_name):
     else:        
         docs = health_relations(client, [article.all])
 
-    graph_cosmos_gremlin.create_graph(docs, graph_name)
+    graph_helper.populate_graph(docs, graph_name)
 
     
 
 
-
-def all_graph(conclusion_list, client):
-    text_list = []
-
-    for i in range(len(conclusion_list)):
-        text_list.append(conclusion_list[i].conclusion)  # <-- set on conclusion at the moment
-
-    #print(conclusion_list[-1])
-
-    docs = health_relations(client, text_list)
-
-    #print_docs(docs)
-
-    # conclusions, art0-4
-    graph_name = "conclusions"
-
-    graph_cosmos_gremlin.create_graph(docs, graph_name)
-
-
-# authenticate client in order to use the text analytics services
+'''
+Authenticate client in order to use the text analytics services
+''' 
 def authenticate_client():
     language_key = os.getenv('LANGUAGE_ADMIN_API_KEY')
     language_endpoint = os.getenv('LANGUAGE_ENDPOINT')
@@ -86,7 +68,9 @@ def authenticate_client():
 
 
 
-# extract health relations from text
+'''
+Extract health relations from text
+''' 
 def health_relations(client, text_list):
     documents = text_list
 
