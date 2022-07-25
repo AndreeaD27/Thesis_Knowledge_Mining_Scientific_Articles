@@ -1,0 +1,130 @@
+
+Three ethics committees approved the current study protocol 
+(HAP2020-011; CHUSP20032020; EpiCURA-2020-2303). 
+Patients were invited to participate and the informed consent 
+was obtained.
+
+Subjects and setting
+
+The clinical data of patients with laboratory-confirmed 
+COVID-19 infection have been collected from four Belgian 
+Hospitals (CHU Saint-Pierre, Brussels; CHU Ambroise 
+Paré, Mons; EpiCURA, Baudour; EpiCURA, Ath), and 
+University of Mons (Belgium). In addition to these ones, 
+many other patients, infected physicians and nurses have 
+been voluntarily enrolled in the study from the following 
+hospitals: Foch Hospital (Paris, France); Ambroise Paré 
+
+Hospital (AP-HP, Paris), CHU Ambroise Paré (Mons, Bel-
+gium), Hospital Universitario Donostia (Donostia, Spain); 
+Hospital Universitario Santiago de Compostela (Santiago 
+de Compostela, Spain); Morgagni Pierantoni Hospital 
+(Forli, Italy), Department of Neuroscience, Audiology Unit 
+(Padova University, Treviso, Italy), and Medical Depart-
+ments of the Università degli Studi della Campania ‘Luigi 
+Vanvitelli’ (Naples, Italy).
+
+The following inclusion criteria have been considered: 
+adult (> 18 years old); laboratory-confirmed COVID-19 
+infection (reverse transcription polymerase chain reaction, 
+RT-PCR); native speaker patients, and patients clinically 
+able to fulfill the questionnaire. The following exclusion 
+criteria have been considered: patients with olfactory or 
+gustatory dysfunctions before the epidemic; patients with-
+out a laboratory-confirmed COVID-19 infection diagnosis; 
+patients who were in the intensive-care unit at the time 
+of the study (due to their health status). Thus, we mainly 
+included mild-to-moderate COVID-19 patients, defined as 
+patients without need of intensive cares. Since we focused 
+on the prevalence of olfactory and gustatory disorders, 
+clinical presentation was not considered in as inclusion 
+criteria.
+
+Clinical outcomes
+
+Clinical data have been prospectively collected during the 
+ear, nose, and throat (ENT) consultation; in the patient’s 
+room; or over the phone for house-bound patients or infected 
+health professionals. The data were also collected through an 
+online form for house-bound patients. The online question-
+naire was created with Professional Survey Monkey (San 
+Mateo, CA, USA), so that each participant could complete 
+the survey only once.
+
+The selection of the relevant epidemiological and 
+clinical features composing the questionnaire was car-
+ried out by the COVID-19 Task Force of YO-IFOS, which 
+includes otolaryngologists from North America, Europe, 
+and Asia [8]. Exper ts analyzed the epidemiological 
+publications of the current and the previous coronavi-
+rus infections, including SRAS-CoV-1 (2002); Middle-
+East respiratory syndrome-related coronavirus infection 
+(MERS-CoV, 2012), and the COVID-19 infection. From 
+the literature, ten experts (JRL, SS, MH, JHS, PL, TA, 
+LD, FEA, CCH, and CMCE) developed the question-
+naire, which consisted of four general questions (age, sex, 
+ethnicity, and date of diagnosis); three general clinical 
+questions (comorbidities, general, and ENT symptoms 
+associated with COVID-19 infection); seven questions 
+about olfactory function; four questions investigating 
+
+
+
+2253European Archives of Oto-Rhino-Laryngology (2020) 277:2251–2261 
+
+1 3
+
+gustatory function; and one question about the treatment 
+of the COVID-19 infection. All patients were asked to 
+complete the short version of the Questionnaire of Olfac-
+tory Disorders-Negative Statements (sQOD-NS) [9]. The 
+questionnaire has been translated into Spanish, Italian, 
+and English by two native speaker otolaryngologists for 
+each language.
+
+Olfactory and gustatory outcomes
+
+The occurrence of anosmia or hyposmia has been identified 
+in the questionnaire. The impact of olfactory dysfunction 
+on the quality of life (QoL) of patients has been assessed 
+through the validated sQOD-NS (Appendix 1) [9]. This is a 
+seven-item patient-reported outcome questionnaire includ-
+ing social, eating, annoyance, and anxiety questions. Each 
+item is rated on a scale of 0–3, with higher scores reflecting 
+better olfactory-specific QoL. The total score ranges from 0 
+(severe impact on QoL) to 21 (no impact on QoL) [9]. The 
+rest of the olfactory and gustatory questions were based on 
+the smell and taste component of the National Health and 
+Nutrition Examination Survey [10]. This population survey 
+was implemented by the Centers for Disease Control and 
+Prevention to continuously monitor the health of adult citi-
+zens in the United States through a nationally representa-
+tive sample of 5000 persons yearly [10]. The questions 
+have been chosen to characterize the variation, timing, and 
+associated symptoms of both olfactory and gustatory dys-
+functions, and, therefore, they suggest a potential etiology. 
+Note that we assessed the mean recovery time of olfaction 
+through four defined propositions: 1–4  days; 5–8  days; 
+9–14 days; and > 15 days.
+
+Referring to the studies that have demonstrated that the 
+viral load was significantly decreased after 14 days [11], 
+we assessed the short-term olfaction non-recovery rate on 
+patients exhibiting double criteria: an onset of the infec-
+tion > 14 days before the assessment and the lack of general 
+symptoms at the time of the evaluation.
+
+Statistical methods
+
+Statistical Package for the Social Sciences for Windows 
+(SPSS version 22,0; IBM Corp, Armonk, NY, USA) was 
+used to perform the statistical analyses. The potential 
+associations between epidemiological, clinical and olfac-
+tory and gustatory outcomes have been assessed through 
+cross-tab generation between two variables (binary or 
+categorical variables) and Chi-square test. Incomplete 
+responses were excluded from analysis. The differences 
+in sQOD-NS scores between patients regarding the olfac-
+tory dysfunction were made through the Kruskal–Wallis 
+test. A level of p < 0.05 was used to determine statistical 
+significance.

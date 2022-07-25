@@ -1,0 +1,151 @@
+
+COVID-19 infection with common symptoms such as fever 
+and chills, cough and shortness of breath spread rapidly 
+around the world [29, 30]. As the disease progressed and 
+many people became infected with the virus, more symp-
+toms such as gastrointestinal involvements, neurologic com-
+plications and neuropsychiatric symptoms were reported 
+[17, 19, 31]. Evidences of anosmia and dysgeusia have also 
+been published in recent days [3, 12, 26]. Therefore, in this 
+study, we reviewed the olfactory and gustatory dysfunctions 
+of COVID-19.
+
+Fig. 1  PRISMA diagram of articles included
+
+
+
+310 European Archives of Oto-Rhino-Laryngology (2021) 278:307–312
+
+1 3
+
+Our review study showed that patients with COVID-
+19 infection may have loss of taste or smell as the symp-
+tom. Most studies (95.8%) have confirmed the symptoms 
+of anosmia in patients with SARS-CoV-2 infection [1–3, 
+
+8–12, 14–28]. It is therefore likely that a surge in the spread 
+of olfactory abnormalities happened during the epidemic 
+of COVID-19 infection [1, 22]. Rather than injury to the 
+structure of the receptors, the virus has been suggested to 
+
+Table 1  Identified olfactory/gustatory dysfunctions of COVID-19 based on the review of literature
+
+ID First author (reference) Type of study Country Olfactory/gustatory dysfunctions
+
+Anosmia Hyposmia 
+(microsmia)
+
+Ageusia Dysgeusia 
+(parageusia)
+
+Other
+
+1 Russell B [12] Report UK Yes – Yes Yes
+2 Machado C [2] Review Cuba Yes Yes Yes Yes Dyssomnia––parosmia
+3 Villalba N [3] Case report Spain Yes Yes – Yes –
+4 Ollarves–Carrero M [16] Case report Spain Yes Yes – Yes Dysosmia–hypogeusia
+5 Troyer E [17] Narrative review USA Yes – Yes – –
+6 Bagheri S [15] Cross-sectional Iran Yes Yes Yes – Hypogeusia
+7 Ovesen T [11] Case report Denmark Yes Yes Yes – –
+8 Gane S [18] Case report UK Yes – Yes – –
+9 Pérez C [19] Report USA Yes Yes Yes Yes –
+10 Hjelmesæth J [20] Case report Norway Yes Yes Yes Yes –
+11 Gautier JF [21] Letter to the editor Switzerland Yes – Yes – –
+12 Brann D [22] Clinical trials USA Yes Yes – – –
+13 Lechien J [10] Case Control France Yes Yes Yes Yes Phantosmia–parosmia
+14 Galougahi M [14] Letter to the editor Iran Yes Yes – – Hypogeusia
+15 Hopkins C [23] Clinical trials UK Yes – – – –
+16 Walker A [24] Clinical trials UK Yes Yes –– Yes –
+17 Wu Y [25] Review China Yes – Yes Yes –
+18 Soler Z [26] Review USA Yes Yes Yes – –
+19 Li Y [8] Review China Yes Yes – – –
+20 Giacomelli A [9] Letter to the editor Italy Yes – – Yes Dysosmia
+21 Eliezer M [27] Case report France Yes – – – –
+22 Lovato A [1] Review Italy Yes Yes – – At least one taste or 
+
+olfactory disorder
+23 Keyhan SO [13] Letter to the editor Iran – – – Yes Dysosmia
+24 Ghiasvand F (28) Letter to the editor Iran Yes – – – –
+
+Fig. 2  Frequencies of COVID-
+19 olfactory and gustatory 
+dysfunctions
+
+0510152025
+
+Anosmia
+
+Hyposmia (Microsmia)
+
+Ageusia
+
+Dysgeusia (Parageusia)
+
+Frequncy
+
+Olfactory/Gustatory Dysfunctions
+
+
+
+311European Archives of Oto-Rhino-Laryngology (2021) 278:307–312 
+
+1 3
+
+cause some kind of inflammation in the olfactory nerves 
+[3]. However, researchers’ findings suggest that the exact 
+mechanism of olfactory and gustatory dysfunctions requires 
+further investigation [11, 15].
+
+Anosmia has been anecdotally reported as a distinct 
+symptom in patients who have been diagnosed with COVID-
+19 in other studies [2, 3, 12, 16, 17]. However, existing 
+cohort studies have not highlighted these symptoms, and the 
+frequency and effectiveness of COVID-19 for these symp-
+toms is not yet conclusive [3, 9]. The findings of Ghiasvand 
+et al.’s study have implied that anosmia is a new symptom 
+of COVID-19 infection and more research is needed to find 
+how the virus affects patients’ olfactory system [28].
+
+Anosmia is particularly seen in patients positive for the 
+coronavirus who do not have any other clinical symptoms 
+[3]. Gane et al., in a case report study, have reported a patient 
+presenting with isolated sudden onset anosmia (ISOA) who 
+went on to test positive for COVID-19 infection and did 
+not develop any further symptoms such as respiratory or 
+gastrointestinal symptoms that other patients may have 
+[18]. Similarly, Eliezer et al. showed that the association of 
+a sudden and complete olfactory function loss, without nasal 
+obstruction in a patient with other symptoms, such as cough 
+or fever, should alert the clinician to suspect SARS-CoV-2 
+infection [27]
+
+Review of current studies showed that, in addition of 
+anosmia, evidences of ageusia and dysgeusia (parageusia) 
+were also seen in patients with COVID-19 [2, 10, 19, 20, 
+25]. The possibility that SARS-CoV-2 might cause olfactory 
+and gustatory dysfunctions is certainly acceptable [26]. Cur-
+rent studies indicated that hyposmia or anosmia and dysgeu-
+sia may be an early symptom associated with the COVID-19 
+infection [12, 19, 25].
+
+A growing number of patients with SARS-CoV-2 infec-
+tion report a sudden loss of smell or taste functions. It seems 
+that anosmia and dysgeusia might be observed in COVID-
+19 patients [25]. Based on a case control study results, the 
+COVID-19-infected patients may just present olfactory and 
+gustatory dysfunctions without other significant symptoms. 
+The only anosmia or ageusia symptom needs to be recog-
+nized by the infectious diseases specialists as an important 
+symptom of the SARS-CoV-2 infection [10].
+
+Other similar studies have confirmed the above-men-
+tioned clinical manifestations [1, 2, 20]; for example, 
+Machado in a review study concluded that because the exist-
+ence of a relationship between post-infectious manifestations 
+and COVID-19 is likely, it is highly recommended that those 
+patients who experience complications such as smell and/
+or taste loss, even as only symptoms, should be considered 
+as potential SARS-CoV-2 infection carriers [2]. Moreover, 
+Hjelmesæth et al., in a case report study have concluded that 
+patients with SARS-CoV-2 infection may have loss of taste 
+or smell as the only symptom [20].

@@ -1,0 +1,148 @@
+
+The study was conducted in the Department of Otorhinolaryngology of Regensburg Univer-
+
+sity Hospital in collaboration with the Institute of Clinical Microbiology and Hygiene of
+
+Regensburg University Hospital. It was supported by a grant for COVID-19 related research of
+
+the Bavarian State Ministry for Science and Art and conducted after approval by the ethics
+committee of the University Regensburg (approval number 20–1766_4–101). The study was
+
+performed in accordance with the ethical standards of the Declaration of Helsinki and its later
+
+amendments. Detailed information was provided to the patient in written form and their con-
+
+sent was obtained in written form, too.
+
+Patients
+
+The database of the Institute of Clinical Microbiology and Hygiene of Regensburg University
+
+Hospital was screened for patients who were tested positive for SARS-CoV-2 by reverse tran-
+
+scription-polymerase chain reaction (RT-PCR) between 01.03.2020 and 31.08.2020. During
+
+that period 2472 positive PCR-tests of 1675 patients were conducted. Out of these patients, 797
+
+were excluded because of fatal disease, age below 18 years, or missing personal data. Eight
+
+months after their COVID-19 878 patients were invited to participate in this study by mail. In
+
+the case of missing postal addresses, external hospitals and doctors’ offices have been contacted
+
+for assistance.
+
+The invitation letter contained the study information, forms for informed consent, and a
+
+first questionnaire about patients’ preconditions, the course of the SARS-CoV-2 infection and
+
+other details. Overall, 454 patients replied to this first questionnaire either using the attached
+
+stamped and addressed envelope or through an online survey. To ensure a high level of partici-
+
+pation psychophysical testing was not performed in the hospital but at home. Hence all
+
+patients who replied positively to the invitation letter were sent the second letter containing
+
+smell and taste tests, detailed instructions, and a second questionnaire. 316 patients responded
+
+to the smell and taste test, of which 13 patients had to be excluded due to missing data.
+
+Patients’ questionnaire
+
+Patients were asked to answer questions on medical preconditions and the course of the
+
+SARS-CoV-2 infection. Additionally, they self-rated their subjective olfactory and gustatory
+
+function using a visual analogue score from 1 to 10 (1 having no smell/taste and 10 having no
+
+impairment in smell/taste).
+
+Psychophysical testing
+
+Psychophysical testing consisted of validated and blinded tests for olfaction (NHANES Pocket
+
+Smell Test, Sensonics, Haddon Heights, NJ, US) and gustation (Taste Strips Test, Burghart
+
+Messtechnik, Holm, Germany). An attached instruction manual ensured correct self-adminis-
+
+tration (Hintschich et al., 2020).
+
+PLOS ONE Olfactory and gustatory function eight months after COVID-19
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0265686 March 23, 2022 2 / 10
+
+Competing interests: The authors have declared
+
+that no competing interests exist.
+
+https://doi.org/10.1371/journal.pone.0265686
+
+
+Olfactory function was assessed with the NHANES Pocket Smell Test. This scratch-and-
+
+sniff suprathreshold olfactory test comprises eight familiar smells: chocolate, strawberry,
+
+smoke, leather, soap, grape, onion, and natural gas. Six correct answers or more indicate nor-
+
+mosmia, five and less correct answers indicate hyposmia/anosmia [18].
+
+Gustatory function was tested using the Taste Strips Test. It consists of 16 impregnated filter
+
+paper strips to test for four different concentrations of each taste quality (sweet 1: 0.4 g/ml
+
+sucrose; sweet 2: 0.2 g/ml sucrose; sweet 3 0.1 g/ml sucrose; sweet 4: 0.05 g/ml sucrose), sour
+
+(sour 1: 0.3 g/ml citric acid; sour 2: 0.165 g/ml citric acid; sour 3: 0.09 g/ml citric acid; sour 4:
+
+0.05 g/ml citric acid), salty (salty 1: 0.25 g/ml sodium chloride; salty 2: 0.1 g/ml sodium chlo-
+
+ride; salty 3: 0.04 g/ml sodium chloride; salty 4: 0.016 g/ml sodium chloride), and bitter (bitter
+
+1: 0.006 g/ml quinine hydrochloride; bitter 2: 0.0024 g/ml quinine hydrochloride; bitter 3:
+
+0.0009 g/ml quinine hydrochloride; bitter 4: 0.0004 g/ml quinine hydrochloride). Each strip
+
+was packed in an individual paper bag, which was numbered in a pseudorandomized order
+
+from 1 to 16, to allow a blinded self-administration at home. The attached instructions
+
+described the self-administration of the test. Patients were instructed to rinse the mouth with
+
+tap water and to observe a break of one minute after each strip. The test was presented as a
+
+non-forced choice forced task: Additionally, to the answers “sweet”, “sour”, “salty”, and “bit-
+
+ter” patients could choose “no answer”. This ensured the correct self-administration of the
+
+Taste Strips Test and has been validated [19, 20] and successfully utilized [16] previously. The
+
+correctly identified strips were summed up to the total Taste Strips score. Normogeusia was
+
+defined as 9 or more correctly identified strips [21].
+
+Taste Strips scores were compared to normative data by Welge-Lüssen et al. [16]. Without
+
+prior screening, a total of 761 patients were psychophysically tested for their gustatory function
+
+using the very same Taste Strips test in a non-forced choice paradigm. The distribution of age
+
+(Welge-Lüssen et al.: mean age 35.6 years ± 19.3; this study: mean age 49.0 years ± 14.4) and
+sex (Welge-Lüssen et al.: 61% female; this study: 55%) were comparable.
+
+Statistics
+
+Data was analyzed using SPSS Statistics software (version 26, IBM, Armonk, NY, US). Graphs
+
+were illustrated using Prism software (version 9, GraphPad Software, San Diego, CA, USA).
+
+Unless stated differently values are given as mean ± standard deviation (SD). p<0.05 was con-
+sidered as statistically significant. Continuous data were analyzed for statistical significance
+
+using unpaired two-tailed Student’s t-tests. The corresponding homogeneity of variance was
+
+assessed using Levene’s test. Proportions between cohorts was calculated using the Z-test. Cat-
+
+egorical data was compared between groups using Fisher’s exact test. Correlations were deter-
+
+mined using Pearson’s or phi correlation.

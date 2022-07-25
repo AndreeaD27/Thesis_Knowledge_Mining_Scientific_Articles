@@ -1,0 +1,80 @@
+
+303 patients (mean age 49.0 years ± 14.4) who were tested positive for SARS-CoV-2 by
+RT-PCR eight months before were included in this study. 167 patients (55%) were female, and
+
+136 patients (45%) were male.
+
+Subjective rating
+
+70% and 74% of the patients stated retrospectively to have suffered an olfactory and a gustatory
+
+impairment, respectively, during the acute phase of COVID-19. Eight months later these fig-
+
+ures were at 28% and 24%. In the visual analogue score (VAS) patients self-rated their present
+
+olfactory function as 7.9±2.1 and gustatory function as 8.2±1.8. Forty percent indicated the
+presence of dysgeusia during COVID-19 and 10% at the time of the follow-up.
+
+PLOS ONE Olfactory and gustatory function eight months after COVID-19
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0265686 March 23, 2022 3 / 10
+
+https://doi.org/10.1371/journal.pone.0265686
+
+
+Smell test
+
+The mean score of the NHANES Pocket Smell Test was 6.4±1.3 with 54 patients (18%) scoring
+in the hyposmic range (5 or less correct answers), and 249 patients (82%) scoring in the range
+
+of normosmia (Fig 1). There was a weak but significant negative correlation between age and
+
+smell score (r = -0.19, p<0.001).
+
+Taste test
+
+The mean Taste Strips score was 9.7±3.4. 97 patients (32%) scored in the range of hypogeusia
+(Fig 2); 206 patients (68%) scored in the normogeusic range. Table 1 shows the percentage of
+
+correct answers of the single Taste Strips.
+
+More women than men were normogeusic (80% vs. 54%; p = 0.001). Women scored also
+higher than men (10.5±3.0 vs. 8.6±3.4; p<0.001). Interestingly, patients who were hospitalized
+on intensive care units were significantly more often hypogeusic (51% vs. 28%; p = 0.003) and
+also scored significantly lower in gustatory testing than those without intensive care hospitali-
+
+zation (8.3±3.5 vs. 10.0±3.3; p = 0.002). Allergies (p = 0.025) and a prior radiotherapy of the
+head and neck region (p = 0.002) had a significant influence on gustation. Other potential
+
+covariates as smoking, prior surgery of the paranasal sinuses, the nasal septum/inferior turbi-
+
+nates, or the brain, chronic rhinosinusitis, neurological diseases, or a prior traumatic brain
+
+injury had no significant influence on gustatory function (p>0.05).
+
+Correlation between smell and taste tests
+
+A highly significant association between tested hyposmia and tested hypogeusia was found (φ
+= 0.24; p<0.001). Correspondingly, a weak, but significant correlation could be demonstrated
+between the scores of the Pocket Smell Test and the Taste Strips (r = 0.32; p<0.001).
+
+Fig 1. Results of olfactory test. Histogram of the NHANES Pocket Smell Test score as number of correctly identified smells, and percentage of the total
+
+study population. Normosmia is defined as six or more correct answers and hyposmia as five and less correct answers [18].
+
+https://doi.org/10.1371/journal.pone.0265686.g001
+
+PLOS ONE Olfactory and gustatory function eight months after COVID-19
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0265686 March 23, 2022 4 / 10
+
+https://doi.org/10.1371/journal.pone.0265686.g001
+https://doi.org/10.1371/journal.pone.0265686
+
+
+Correlation between subjective ratings and psychophysical results
+
+Self-rated olfactory function (VAS score) correlated moderately with the score of the Pocket
+
+Smell Test (r = 0.42, p<0.001). However, between self-rated taste function and taste strips
+score no such correlation could be observed (r = 0.09, p = 0.14).

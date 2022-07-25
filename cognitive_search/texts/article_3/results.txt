@@ -1,0 +1,682 @@
+
+Study characteristics
+
+A total of 25 studies were included in our systematic
+
+review. All the data, including study details, percentage of
+patients experiencing OGD, and the presence of other
+neurological symptoms were extracted from the studies
+
+and are presented in Table 1. The included studies’ total
+sample size was 10,880, with individual studies’ sample
+sizes ranging from a minimum of 55 to a maximum of
+2883. In 12 out of 25 studies, the patients also presented
+showing inclusion of studies.
+
+
+
+Table 1: Study and patient characteristics of included studies.
+
+ID Article Study design Publication date Number of
+
+participants
+
+Major olfactory
+
+symptom
+
+Major gustatory
+
+symptoms
+
+Olfactory
+
+symptoms
+
+N (%)
+
+Gustatory
+
+symptoms
+
+N (%)
+
+Any
+
+neurological
+
+manifestation
+
+1 Hopkins C et al.
+13
+
+Cohort study April 7, 2020 2428 Anosmia Hypogeusia 74.4% complete
+
+loss,
+
+17.3% severe
+
+loss
+
+90% reduced
+
+taste, but 61%
+
+could still
+
+differentiate
+
+among varied
+
+tastes
+
+None
+
+2 Luers et al.
+14
+
+Cross-sectional
+
+study
+
+April 6, 2020 72 Hyposmia Hypogeusia 73.6% 69.4% Headache
+
+3 Paderno et al.
+15
+
+Cohort study June 15, 2020 151 Anosmia or
+
+Hyposmia
+
+Hypogeusia 83% 89% None
+
+4 Petrocelli et al.
+16
+
+Cohort study July 28, 2020 300 Anosmia Ageusia 70% (47%
+
+anosmia)
+
+70% (38%
+
+ageusia)
+
+None
+
+5 Gorzkowski et al.
+17
+
+Cross-sectional
+
+Study
+
+June 29, 2020 229 Anosmia or
+
+Hyposmia
+
+e 70.3% None
+
+6 Ceron et al.
+18
+
+A prospective
+
+multicentric
+
+cohort study
+
+July 3, 2020 55 Anosmia Dysgeusia 51 (92.7%) 80% None
+
+7 Cho et al.
+19
+
+Prospective
+
+cross-sectional
+
+study cohort
+
+143 Anosmia Dysgeusia 47% 43.4% None
+
+8 Rojas-lechuga et al.
+20
+
+Cross-sectional
+
+study
+
+July 31, 2020 197
+
+107 control
+
+e e 70.1% 65% None
+
+9 Gomez-Iglesias et al.
+21
+
+Online
+
+observational
+
+study
+
+May 29, 2020 909 Anosmia,
+
+hyposmia
+
+Ageusia,
+
+dysgeusia
+
+824 (90.65%) 824 (90.65%) None
+
+10 Altin F et al.
+22
+
+Prospective
+
+study
+
+June 17, 2020 81 Anosmia,
+
+hyposmia
+
+Ageusia,
+
+dysgeusia
+
+50 (61.7%) 22 (27.2%) None
+
+11 Chary E et al.
+23
+
+Multicentre case
+
+series study
+
+115 Anosmia,
+
+hyposmia
+
+Ageusia,
+
+dysgeusia
+
+81 (70%) 81 (70%) None
+
+12 Chiesa estomba et al.
+24
+
+Clinical study April 28, 2020 542 449 (81.9%) 67.5% partial
+
+loss,
+
+14.4% complete
+
+loss
+
+Headache
+
+72.5%
+
+13 Qui et al.
+12
+
+Multicentre case
+
+series study
+
+May 15, 2020 394 Anosmia,
+
+hyposmia
+
+Ageusia,
+
+dysgeusia
+
+161 (41%) 161 (41%) None
+
+14 Meini et al.
+25
+
+Phone review May 29, 2020 100 Anosmia,
+
+hyposmia
+
+Ageusia,
+
+dysgeusia
+
+29 41 Headache
+
+15 Carignan et al.
+26
+
+Case-control
+
+study
+
+May 27, 2020 2883 Anosmia Dysgeusia 51.5% 63.4% Blurred vision
+
+16 Lechien et al.
+27
+
+Objective
+
+evaluation
+
+May 6, 2020 86 Anosmia,
+
+hyposmia
+
+61.4%
+
+41 anosmia,
+
+12 hyposmia
+
+Headache 60%
+
+(continued on next page)
+
+S
+.
+A
+h
+m
+a
+d
+et
+
+a
+l.
+
+1
+7
+7
+
+
+
+Table 1 (continued)
+
+ID Article Study design Publication date Number of
+
+participants
+
+Major olfactory
+
+symptom
+
+Major gustatory
+
+symptoms
+
+Olfactory
+
+symptoms
+
+N (%)
+
+Gustatory
+
+symptoms
+
+N (%)
+
+Any
+
+neurological
+
+manifestation
+
+17 Speth et al.
+28
+
+Prospective,
+
+cross-sectional
+
+May 19, 2020 103 Anosmia,
+
+hyposmia, nasal
+
+obstruction,
+
+rhinorrhoea
+
+Decrease and no
+
+sense of taste
+
+14.6% hyposmia
+
+46.6% anosmia
+
+25.2% decreased
+
+sense of smell,
+
+39.8% no sense
+
+of smell
+
+None
+
+18 Paderno et al.
+29
+
+Cross-sectional
+
+study
+
+May 11, 2020 508 Anosmia Ageusia (325) 64% 60% Headache and
+
+syncope
+
+19 Vaira et al.
+30
+
+Observational
+
+study
+
+April 14, 2020 72 Hyposmia/
+
+anosmia,
+
+rhinorrhoea,
+
+nasal
+
+obstruction
+
+Hypogeusia,
+
+ageusia
+
+14.4% isolated
+
+olfactory
+
+disorders
+
+12.5% isolated
+
+taste disorders
+
+Headache
+
+20 Yan et al.
+31
+
+Retrospective
+
+review
+
+April 21, 2020 128 Hyposmia/
+
+anosmia,
+
+rhinorrhoea,
+
+sinusitis
+
+Dysgeusia Anosmia/
+
+hyposmia
+
+(26.9%) in
+
+admitted
+
+patients
+
+Dysgeusia
+
+(23.1%) in
+
+admitted
+
+patients
+
+Headache
+
+21 Lechien et al.
+32
+
+Multicentre
+
+study
+
+April 6, 2020 417 Hyposmia/
+
+anosmia,
+
+rhinorrhoea,
+
+nasal
+
+obstruction,
+
+postnasal drip
+
+Dysgeusia,
+
+Ageusia
+
+85.6%
+
+(hyposmia/
+
+anosmia)
+
+88.0%
+
+(dysgeusia/
+
+ageusia)
+
+Headache
+
+22 Vaira et al.
+33
+
+Multicentre
+
+cohort study
+
+May 4, 2020 345 Hyposmia/
+
+anosmia
+
+Dysgeusia,
+
+ageusia
+
+8.6% (isolated
+
+hyposmia/
+
+anosmia)
+
+12.1% (isolated
+
+dysgeusia/
+
+ageusia)
+
+None
+
+23 Karadas et al.
+34
+
+Prospective
+
+clinical study
+
+June 25, 2020 239 Smell
+
+impairment
+
+Taste
+
+impairment
+
+18 (7.5%) 16 (6.7%) Headache, sleep
+
+disturbance,
+
+dizziness,
+
+confusion
+
+24 Vacchiano et al.
+35
+
+Cross-sectional
+
+study
+
+July 02, 2020 133 Smell disorders Taste disorders 40 (37%) 66 (61%) Dizziness,
+
+Headache,
+
+muscle pain
+
+25 Cazzolla et al.
+36
+
+Observational
+
+study
+
+August 4, 2020 67 Olfactory
+
+disorders
+
+Taste disorders 23 (34.3%) 50 (74.6%) Headache
+
+(59.7%)
+
+T
+a
+ste
+
+a
+n
+d
+S
+m
+ell
+
+D
+y
+sfu
+
+n
+ctio
+
+n
+in
+
+C
+O
+V
+ID
+
+-1
+9
+
+1
+7
+8
+
+
+
+Figure 2: Forest plot illustrating the meta-analysis of the pooled prevalence of gustatory dysfunction in patients with COVID-19.
+
+S. Ahmad et al. 179
+with other neurological problems in addition to OGD,
+headache being the most common. Only 17 studies that
+gave the exact number of patients with anosmia and
+
+hyposmia, ageusia, and dysgeusia were included in the
+pooled analysis (forest plot), resulting in a total sample
+size of 4149.
+Figure 3: Forest plot illustrating the meta-analysis of the pooled p
+Prevalence of gustatory dysfunction
+
+For evaluation of gustatory dysfunction, a total of 4149
+patients included in 17 studies were identified. At least some
+
+level of gustatory dysfunction was reported in 2676 patients.
+Meta-analysis of the 17 included studies was performed using
+revalence of olfactory dysfunction in patients with COVID-19.
+
+
+
+Figure 4: A. Subgroup analysis for the prevalence of olfactory dysfunction assessed using validated methods in patients with COVID-19.
+
+B. Subgroup analysis for the prevalence of olfactory dysfunction assessed using non-validated methods in patients with COVID-19.
+
+Taste and Smell Dysfunction in COVID-19180
+a random-effects model, which demonstrated a prevalence of
+57.33% gustatory dysfunction among the 4149 COVID-19
+
+patients (95% CI, 44.585%e69.600%), as shown in
+Figure 2. There was significant heterogeneity among the 17
+studies, with an I
+
+2
+of p < 0.0001 (98.50%). Visual
+
+inspection of the funnel plot (Supplementary File 1)
+
+showed an asymmetric distribution of the studies,
+suggesting the possibility of a publication bias. The Egger
+test reported a p-value of 0.0526.
+
+Prevalence of olfactory dysfunction
+
+For evaluation of olfactory dysfunction, a total of 4149
+
+patients included in 17 studies were identified. Some level of
+olfactory dysfunction was reported in 2106 total patients.
+Meta-analysis of the 17 included studies was performed using
+
+a random-effects model, demonstrating a prevalence of
+59.69% olfactory dysfunction among the 4149 COVID-19
+patients (95% CI, 42.592%e75.656%), as shown in
+Figure 3. There was significant heterogeneity among the
+studies, with an I
+
+2
+of p < 0.0001 (99.17%). On visual
+
+inspection of the funnel plot (Supplementary File 2), all
+quadrants were seen to have a symmetric distribution,
+showing non-significant publication bias. The Egger test re-
+ported a p-value of 0.1849.
+
+Additional analysis
+
+Subgroup analysis (Figure 4A and B) was performed based
+on the method used to detect olfactory dysfunction. Studies
+that used validated instruments showed a pooled prevalence
+
+of 61.27% (95% CI, 40.94%e79.72%) compared to 57.43%
+(95% CI, 30.1%e82.49%) in studies that did not employ
+validated tools. Sensitivity analysis (Figure 5) for gustatory
+
+dysfunction, which was performed by removing studies with
+a very small sample size (<100 participants), increased
+pooled prevalence to 62.71% (95% CI, 47.33%e76.87%), up
+from the original prevalence of 57.33%.
+
+
+
+Figure 5: Sensitivity analysis for the prevalence of gustatory dysfunction in patients with the COVID-19 after removing studies with a
+
+small sample size (<100 participants).
+
+S. Ahmad et al. 181

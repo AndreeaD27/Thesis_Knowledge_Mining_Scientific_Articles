@@ -1,0 +1,257 @@
+Study design and population
+
+A retrospective analysis of all adult subjects presenting to
+the UC San Diego Health System (Jacobs and Hillcrest
+Medical Centers) with confirmed polymerase chain reaction
+(PCR)-positive testing for the SARS-CoV-2 viral nucleic
+acid from nasopharyngeal swabs was done. Demographic
+data (Table 1) along with subjective and objective clini-
+cal data (Table 2) were obtained from review of electronic
+medical records (EMR), specifically encounters pertaining
+to COVID-19 diagnosis. Self-reported sense of smell and
+taste during time of illness were compared to premorbid
+levels as dichotomous variables (loss of smell/taste vs nor-
+mal/baseline). Specifically, we first retrospectively queried
+the EMR for assessments on olfactory/gustatory function in
+the encounters related to COVID-19. If self-reported olfac-
+tory/gustatory function data were not available in the EMR,
+we emailed or called patients to inquire about the status of
+olfactory and gustatory function (“Have you had any smell
+loss during this period of illness compared to before?” and
+“Have you had any taste loss during this illness compared
+to before?”). Chest radiograph findings were categorized
+as “negative” if no findings were present and defined as
+
+TABLE 1. Baseline characteristics: comparison of
+demographic and baseline clinical characteristics in
+
+admitted and ambulatory COVID-19–positive subjects
+
+Characteristic
+
+COVID-19–
+
+positive
+
+Admitted
+
+(n = 26)
+
+COVID-19–
+
+positive
+
+Ambulatory
+
+(n = 102) pa
+
+Baseline characteristics
+
+Age (years), median (IQR)
+b
+
+53.5 (40–65) 43 (34–54) 0.0093
+
+Gender, n (%)
+
+Male 9 (34.6) 52 (51) 0.14
+
+Female 17 (65.4) 50 (49)
+
+Race, n (%)
+
+White 8 (30.8) 50 (49) 0.29
+
+Black 3 (11.5) 5 (4.9)
+
+Hispanic 7 (26.9) 21 (20.6)
+
+Asian 4 (15.4) 7 (6.9)
+
+Other/mixed 4 (15.4) 13 (12.8)
+
+Unknown/missing 0 6 (5.9)
+
+BMI (kg/m2), median (IQR)
+b
+
+28.4
+(25.7–31.2)
+
+25.9
+(23.1–29.7)
+
+0.11
+
+Tobacco use, n (%)
+
+Never smoker 22 (84.6) 79 (77.5) 0.87
+
+Current/recent smoker 4 (15.4) 13 (12.8)
+
+Unknown/missing 0 10 (9.8)
+
+Past medical history, n (%)
+
+Hypertension
+
+No 19 (73.1) 81 (79.4) 0.18
+
+Yes 7 (26.9) 15 (14.7)
+
+Unknown/missing 0 6 (5.9)
+
+Diabetes mellitus
+
+No 18 (69.2) 90 (88.2) 0.001
+
+Yes 8 (30.8) 6 (5.9)
+
+Unknown/missing 0 6 (5.9)
+
+COPD
+
+No 26 (100) 92 (90.2) 0.29
+
+Yes 0 4 (3.9)
+
+Unknown/missing 0 6 (5.9)
+
+Asthma
+
+No 23 (88.5) 86 (84.3) 0.87
+
+Yes 3 (11.5) 10 (9.8)
+
+Unknown/missing 0 6 (5.9)
+
+(Continued)
+
+822 International Forum of Allergy & Rhinology, Vol. 10, No. 7, July 2020
+
+
+
+Smell loss linked to milder form of COVID-19
+
+TABLE 1. Continued
+
+Characteristic
+
+COVID-19–
+
+positive
+
+Admitted
+
+(n = 26)
+
+COVID-19–
+
+positive
+
+Ambulatory
+
+(n = 102) pa
+
+Sinusitis
+c
+
+No 26 (100) 91 (89.2) 0.24
+
+Yes 0 5 (4.9)
+
+Unknown/missing 0 6 (5.9)
+
+Cardiovascular disease
+
+No 23 (88.5) 91 (89.2) 0.25
+
+Yes 3 (11.5) 5 (4.9)
+
+Unknown/missing 0 6 (5.9)
+
+Chronic kidney disease
+
+No 24 (92.3) 94 (92.2) 0.15
+
+Yes 2 (7.7) 2(2.0)
+
+Unknown/missing 0 6 (5.9)
+
+Cancer
+
+No 25 (96.2) 91 (89.2) 0.78
+
+Yes 1 (3.8) 5 (4.9)
+
+Unknown/missing 0 6 (5.9)
+
+HIV/other immunosuppression
+
+No 24 (92.3) 82 (80.4) 0.41
+
+Yes 2 (7.7) 13 (12.8)
+
+Unknown/missing 0 7 (6.9)
+
+Obstructive sleep apnea
+
+No 25 (96.2) 93 (91.2) 0.86
+
+Yes 1 (3.8) 3 (2.9)
+
+Unknown/missing 0 6 (5.9)
+
+Stroke
+
+No 23 (88.5) 96 (94.1) 0.001
+
+Yes 3 (11.5) 0
+
+Unknown/missing 0 6 (5.9)
+
+aValues of p determined by chi-square test unless otherwise specified, unknowns
+excluded in statistical testing.
+bStudent 2-way t test.
+cChronic rhinosinusitis or currently experiencing acute episode of rhinosinusitis.
+BMI = body mass index; COVID-19 = coronavirus 2019; COPD = chronic obstruc-
+tive pulmonary disease; HIV = human immunodeficiency virus; IQR = interquartile
+range.
+
+“positive” if presence of pulmonary infiltrates and/or pleu-
+ral effusions were reported on final read by the attending
+radiologist. This study was approved by the Institutional
+Review Board of University of California San Diego (IRB
+#200485).
+
+Statistical analysis
+Statistical analysis was conducted with Stata 15.1 software
+(StataCorp, College Station, TX). The primary outcome
+was hospital admission. The secondary outcome was anos-
+mia. Descriptive comparisons stratified by hospital admis-
+sion and anosmia were conducted using a chi-square (χ 2)
+test for categorical data and 2-way Student t test for con-
+tinuous variables. The threshold for statistical significance
+was set at p < 0.05. Multivariable logistic regression mod-
+els were built to identify independent patient characteristics
+associated with hospital admission as the dependent vari-
+able. Logistic regression was also performed with anosmia
+as the dependent variable. Inclusion criteria for factor inclu-
+sion in multivariable models were set a priori and included
+variables with the strongest magnitudes of association and
+lowest probability of type I error on univariable logistic
+regression. A maximum of 8 variables were included to
+minimize potential model overfitting. Given the known co-
+linear relationship between anosmia and dysgeusia, analy-
+ses focused on anosmia alone. Similarly, analyses involving
+decision to admit and decision to obtain a chest radiograph
+focused on decision to admit; these variables were thus also
+considered colinear. Although anosmia is not plausibly de-
+pendent upon hospital admission, hospital admission was
+kept in the multivariable model investigating associations
+with anosmia as a marker for overall disease severity. Dis-
+tribution medians with interquartile ranges (IQRs), odds
+ratios (ORs; univariable logistic regression), adjusted odds
+ratios (aORs; multivariable logistic regression), and 95%
+confidence intervals (CIs) were reported with correspond-
+ing probabilities of type-I error (p value).

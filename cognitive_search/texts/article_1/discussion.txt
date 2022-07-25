@@ -1,0 +1,229 @@
+
+Over the past few weeks, an increasing number of otolaryn-
+gologists reported sudden anosmia or hyposmia as concur-
+rent symptoms of COVID-19 infection. In these patients, 
+the diagnosis of COVID-19 could be missed, because 
+these symptoms were not known to be specific. As a result, 
+the patients were not isolated and the spread of the virus 
+
+continued. In this context, the COVID-19 Task Force of 
+the YO-IFOS has conducted this study to investigate the 
+prevalence and the short-term evolution of both olfactory 
+and gustatory disorders.
+
+Based on the National Health and Nutrition Examina-
+tion Survey questions, our results support that olfactory 
+and gustatory dysfunctions are both prevalent in patients 
+with mild-to-moderate COVID-19 infection. Thus, 85.6% 
+of patients reported olfactory dysfunction; 79.6% of them 
+
+Table 3  Short version of questionnaire of olfactory disorders-negative statements of patient
+
+sQOD-NS is a seven-item patient-reported outcome questionnaire including social, eating, annoyance, and anxiety questions. Each item is rated 
+on a scale of 0–3, with higher scores reflecting better olfactory-specific QOL. The total score ranges from 0 (severe impact on QoL) to 21 (no 
+impact on QoL) [9]. The item and total scores of sQOD-NS significantly differ between patients with anosmia at the time of the assessment, and 
+those with hyposmia or without olfactory dysfunction (*p = 0.001)
+LS loss of smell, sQOD-NS Short version of Questionnaire of Olfactory Disorders-Negative Statements
+
+Short version QOD-NS items Anosmia Hyposmia No LS
+
+Changes in my sense of smell isolate me socially 1.68 ± 0.91* 2.34 ± 0.75 2.53 ± 0.65
+The problems with my sense of smell have a negative impact on my daily social activities 1.37 ± 0.93* 2.11 ± 0.84 2.56 ± 0.69
+The problems with my sense of smell make me more irritable 1.46 ± 0.92* 2.21 ± 0.82 2.64 ± 0.59
+Because of the problems with my sense of smell, I eat out less 1.30 ± 1.09* 2.12 ± 0.99 2.31 ± 1.04
+Because of the problems with my sense of smell, I eat less than before (loss of appetite) 1.00 ± 0.88* 1.59 ± 0.97 2.36 ± 0.90
+Because of the problems with my sense of smell, I have to make more effort to relax 1.67 ± 0.88* 2.91 ± 0.79 2.61 ± 0.60
+I’m afraid I’ll never be able to get used to the problems with my sense of smell. 0.73 ± 0.86* 1.90 ± 1.06 2.06 ± 1.19
+Short version QOD-NOS total score 9.15 ± 4.60* 14.44 ± 4.59 13.60 ± 8.17
+
+Fig. 4  Therapeutic strategies for COVID-19 infection (a) and olfac-
+tory dysfunction (b)
+
+
+
+2258 European Archives of Oto-Rhino-Laryngology (2020) 277:2251–2261
+
+1 3
+
+having anosmia. Interestingly, many profiles of patients have 
+been identified. First, our data showed that 79.7% of patients 
+without nasal obstruction or rhinorrhea reported hyposmia 
+or anosmia, supporting the role of otolaryngologists as the 
+first-line physicians for some COVID-19 patients. Second, 
+the olfactory dysfunction may appear before, during, or after 
+the general symptoms, with the occurrence of fever being 
+associated with the olfactory dysfunction. There have been 
+few studies on the occurrence of olfactory and gustatory dys-
+functions in Asia, since only one study reported hyposmia as 
+a symptom of the COVID-19 infection [12]. In the study of 
+Mao et al., patients with peripheral nervous system symp-
+toms attributed to COVID-19 infection, the most common 
+the most common complaints were hypogeusia (5.6%) and 
+hyposmia (5.1%) [12]. According to the data of the present 
+study, the prevalence of olfactory and gustatory dysfunc-
+tion is substantially higher in European COVID-19 patients. 
+In addition to the high prevalence, physicians must keep in 
+mind that olfactory disorder may appear before the rest of 
+the complaints in 11.8% of cases, yielding the symptoms 
+important for the early detection of the disease.
+
+One of the most important questions from the otolaryn-
+gologists concerned the recovery of olfactory and gustatory 
+functions. Although our results are still preliminary, it seems 
+that, at least, 25.5% of patients recovered both olfactory and 
+gustatory functions throughout the 2 weeks after the resolu-
+tion of general symptoms. Considering the time to get a sig-
+nificant reduction of the viral load [10], we have estimated 
+that 56% of patients have persistent olfactory dysfunction 
+over the days following the resolution of the COVID-19 gen-
+eral clinical manifestations. In the same vein, some patients 
+seemed to recover olfaction, but not taste, and vice versa. 
+Naturally, there are short-term observations and it is rea-
+sonable to think that a large number of these patients will 
+recover the olfactory or gustatory functions over the weeks 
+following the disease resolution. To summarize, the present 
+study clearly supports the recent declarations of many physi-
+cians from South Korea, Iran, Germany, Italy, Spain, France, 
+Belgium, UK, and US that olfactory and gustatory functions 
+may be impaired in COVID-19 patients.
+
+The pathophysiological mechanisms leading to the olfac-
+tory and gustatory dysfunctions in the COVID-19 infection 
+are still unknown. Coronavirus has already been identified as 
+a family of viruses that may be associated with anosmia [6]. 
+In 2007, Suzuki et al. demonstrated that coronavirus may be 
+detected in the nasal discharge of patients with olfactory dys-
+function. Moreover, they observed that some patients with 
+normal acoustic rhinometry did not recover their olfaction, 
+suggesting that nasal inflammation and related obstruction 
+were not the only etiological factors underlying the olfactory 
+dysfunction in viral infection.
+
+The ability of human coronavirus to invade the olfac-
+tory bulb and, therefore, the central nervous system, is most 
+
+likely a future research path for improving the knowledge 
+about the clinical presentation of patients. From a biomo-
+lecular standpoint, viruses could infect peripheral neurons, 
+using the cell machinery of active transport to access the 
+central nervous system [13]. Thus, for the SARS-CoV 
+receptor (human angiotensin-converting enzyme 2), it has 
+been demonstrated on transgenic mice that SARS-CoV 
+may enter the brain through the olfactory bulb, leading to 
+rapid transneuronal spread [14]. Interestingly, authors dem-
+onstrated that the virus antigen was first detected 60–66 h 
+post-infection and was most abundant in the olfactory bulb. 
+Regions of the cortex (piriform and infralimbic cortices), 
+basal ganglia (ventral pallidum and lateral preoptic regions), 
+and midbrain (dorsal raphe) were also strongly infected after 
+the virus had spread [14]; these regions are connected with 
+the olfactory bulb. The rapid spread of SARS-CoV in the 
+brain was also associated with significant neuronal death. 
+In humans, autopsy samples from eight patients with SARS 
+revealed the presence of SARS-CoV in brain samples by 
+immunohistochemistry, electron microscopy, and real-time 
+RT-PCR [15]. It is currently suspected that the neuroinvasive 
+potential of SARS-CoV2 plays a key role in the respira-
+tory failure of COVID-19 patients [16]. Medical imaging 
+and neuropathology will certainly play an important rule to 
+detect abnormalities in olfactory bulb, cranial nerves, and 
+brain of COVID-19 patients.
+
+The otolaryngological symptoms in our European 
+cohort were particularly prevalent compared with the Asian 
+cohorts. In their clinical series of 99 patients, Chen et al. 
+reported four patients with rhinorrhea (4%) [17]. Then, 
+Guan et al. reported a prevalence of nasal obstruction in 
+5% of patients in a cohort of 1099 patients [18]. The lack 
+of otolaryngological complaints in Asian papers, e.g., nasal 
+obstruction, rhinorrhea, and olfactory and gustatory dys-
+functions, raises many questions. Either they did not assess 
+the ENT complaints, or the Chinese patients had a few ENT 
+complaints. The second hypothesis may be likely regard-
+ing previous studies. Benvenuto et al. have recently com-
+pared the complete genomes of 15 virus sequences from 
+patients treated in different regions of China with other 
+coronaviruses [19]. Interestingly, they observed mutations 
+of surface proteins (spike-S-protein and nucleocapsid-N-
+protein), conferring stability to the viral particle. Such muta-
+tions could be clinically relevant, because the viral spike 
+protein is responsible for virus entry into the cell, whereas 
+the N-protein plays a pivotal role in the virus transcription 
+and assembly efficiency. Previously, Chan et al. determined 
+five virus sequences from patients traveling in Wuhan at the 
+end of December 2019. This study reported identities, but 
+less than 68%, with the SARS-related coronaviruses in spe-
+cific domains. Particularly, the external subdomain region 
+of receptor-binding domain of the S-protein only presents 
+39% identity, and Chan et al. propose that it might affect 
+
+
+
+2259European Archives of Oto-Rhino-Laryngology (2020) 277:2251–2261 
+
+1 3
+
+the choice of human receptor and, therefore, the biological 
+behaviour of this virus [20]. The affinity of some viruses 
+for some tissues and individuals constitutes another area 
+to investigate and explain the potential clinical differences 
+between patients from different world regions. Recent stud-
+ies suggested that the angiotensin converting enzyme 2 
+(ACE2), which is the receptor of SARS-CoV-2, could be 
+specific to certain populations. Li et al. demonstrated that 
+some ACE2 variants could reduce the association between 
+human ACE2 and SARS-CoV S-protein [21]. In other words, 
+the expression level of ACE2 in different tissues might be 
+critical for the susceptibility, symptoms, and outcomes of 
+COVID-19 infection [21]. Moreover, the comparison of the 
+15 expression quantitative trait loci (eQTLs) variants of the 
+ACE2 gene suggested that there will be a lot of ACE2 poly-
+morphisms and ACE2 expression levels between Asian and 
+European populations [22]. According to these studies, it is 
+conceivable that the diversity of ACE2 expression pattern 
+in Asian and European populations could be an important 
+track that needs further investigation.
+
+Moreover, regarding our results, future studies have to 
+explore the potential gender differences in the development 
+of anosmia. The highest susceptibility of females to develop 
+olfactory and gustatory dysfunctions would be related to the 
+gender-related differences in the inflammatory reaction pro-
+cess [23].
+
+The present study has several limitations. First, our 
+patients did not benefit from specific examinations for 
+olfactory and gustatory functions, including psychophysi-
+cal tests or electrophysiological methods [24, 25]. The use 
+of objective approaches makes sense for investigating both 
+gustatory and olfactory functions in COVID-19 patients, and 
+to avoid the confusion related to the retro-olfaction. These 
+approaches would provide many responses for patients 
+who may recover olfaction, but not taste, and vice versa. 
+Second, our patient sample consisted of young and mild-
+to-moderate COVID-19 patients with little comorbidities. 
+They may be not representative of the infected population. 
+However, it seems ethically difficult to investigate olfaction 
+and gustatory function in patients in life-threatening condi-
+tion, such as patients in intensive-care units. Note that in 
+this study, the majority of included patients were identified 
+from hospital laboratory results. However, many infected 
+physicians completed the study, and, therefore, it remains 
+possible that many infected physicians participated to the 
+study, because they suffered from olfactory dysfunction, 
+although the authors have been particularly vigilant to this 
+potential bias. Third, the lack of consistent follow-up of our 
+patients limits us from inquiring into the recovery time of 
+olfactory and gustatory functions, and, therefore, the rate 
+of permanent anosmia or ageusia. Fourth, it seems difficult 
+to identify the potential negative impact of nasal and oral 
+corticosteroids on the clinical course of the disease; these 
+
+treatments are usually used for anosmia or in common nasal 
+complaints. In the absence of such data, the precautionary 
+principle may prevail and, according to the guidelines of the 
+French Society of Otolaryngology, patients must avoid corti-
+costeroids for the treatment of the COVID-19 infection. All 
+of these weaknesses should be considered in future studies 
+to investigate and characterize the olfactory and gustatory 
+functions in COVID-19 patients.

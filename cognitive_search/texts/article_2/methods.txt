@@ -1,0 +1,33 @@
+
+We conducted a narrative review to determine whether SARS-
+CoV-2 can affect the olfactory and gustatory system. Literature 
+search was carried out in the databases of Scopus, PubMed, 
+ScienceDirect, UpToDate, and Web of Science using the key-
+words in combination on the following search strategy:
+
+A. [Coronavirus] OR [COVID-19] OR [SARS-CoV-2] OR 
+[Novel Coronavirus] OR [2019-nCoV]
+
+B. [Olfactory] OR [Gustatory] OR [Anosmia] OR [Paros-
+mia] OR [Hyposmia] OR [Phantosmia] OR [Ageusia] 
+OR [Microsmia] OR [Dysgeusia] OR [Parageusia]
+
+C. [A] AND [B]
+
+Inclusion criteria were as follows: language (English-
+written studies), type of study (original papers, abstracts, 
+reports, reviews, letters to the editor, and clinical trials), and 
+publication date (from December 2019 to April 2020). We 
+excluded documents with inappropriate topics including old 
+data that were not relevant to the main objective of the study. 
+Also, non-English articles, ongoing manuscripts and papers 
+addressing non-human studies, or discussing COVID-19 
+symptoms in general, without reference to olfactory or gus-
+tatory dysfunctions were excluded.
+
+Finally, we screened the titles and abstracts of retrieved 
+documents to identify studies meeting the inclusion criteria. 
+The appropriate full-text articles were included and their 
+results were discussed to make the final selection. After 
+reading the full text of all eligible papers, the researchers 
+made the final decision for each study.
