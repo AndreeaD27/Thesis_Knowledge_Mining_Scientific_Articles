@@ -7,7 +7,7 @@ To find the written thesis, please access the folder `thesis_docs`.
 To find the articles used as data source, please access the folder `thesis_docs/articles`.
 
 To run the venv:
-From the parent folder -> thesis_venv/Scripts/activate  <-- in terminal (to activate it for the terminal)
+From the parent folder -> `thesis_venv/Scripts/activate`  <-- in terminal (to activate it for the terminal)
 
 ## Possible requirementes for installation: 
 If these are already installed, skip this.
@@ -33,3 +33,11 @@ Sign in:\
 ## Code
 
 *Disclaimer: in the file `.env`, the environment variables that contain the names and keys for the services should be valid in order for the code to work. Currently, due to privacy concerns, the keys and names of the used services have been removed. Please populate the fields with your personal ones.*
+
+Before running the pipeline, ensure that there are files already located in the Blob container. 
+
+The pipeline starts by running the main file `cognitive_search.py`. Then, it will continue to ingest the documents from the Blob Storage in the cloud and it will apply the Cognitive Search to extract the content. In the file `language_analytics_health.py`, the Cognitive Service Text Analytics for Health is applied and sent over to the `graph_helper.py` in order to reflect the data in the CosmosDB graph. 
+
+In the folder `section_identifier`, we can find the code and setting for the section identification custom Azure function. 
+
+More details about the inner workings of the pipeline can be found in the actual thesis document. 
